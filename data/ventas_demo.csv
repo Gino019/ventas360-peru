@@ -1,0 +1,1201 @@
+fecha,ciudad,categoria,producto,cantidad,precio_unitario,costo_unitario
+2026-01-29,Tacna,Belleza,Kit de uñas,5,75,40
+2026-02-27,Arequipa,Tecnología,Teclado,2,110,70
+2026-05-20,Tacna,Belleza,Kit de uñas,7,75,40
+2026-01-08,Tacna,Tecnología,Mouse inalámbrico,4,65,35
+2026-05-10,Tacna,Tecnología,Teclado,4,110,70
+2026-06-16,Cusco,Belleza,Kit de uñas,4,75,40
+2026-05-31,Lima,Hogar,Organizador,1,35,18
+2026-06-28,Cusco,Tecnología,Teclado,6,110,70
+2026-02-09,Arequipa,Hogar,Lámpara,6,85,48
+2026-01-24,Cusco,Tecnología,Mouse inalámbrico,2,65,35
+2026-03-30,Lima,Hogar,Lámpara,1,85,48
+2026-04-28,Tacna,Belleza,Kit de uñas,7,75,40
+2026-05-22,Lima,Tecnología,Mouse inalámbrico,6,65,35
+2026-02-19,Tacna,Belleza,Esmalte,1,18,8
+2026-02-28,Lima,Belleza,Kit de uñas,2,75,40
+2026-01-26,Cusco,Tecnología,Teclado,5,110,70
+2026-06-12,Lima,Hogar,Organizador,3,35,18
+2026-04-01,Arequipa,Hogar,Lámpara,5,85,48
+2026-06-24,Tacna,Belleza,Kit de uñas,3,75,40
+2026-03-04,Arequipa,Belleza,Esmalte,8,18,8
+2026-03-11,Arequipa,Hogar,Organizador,6,35,18
+2026-02-28,Tacna,Tecnología,Mouse inalámbrico,6,65,35
+2026-03-10,Tacna,Hogar,Organizador,4,35,18
+2026-03-22,Arequipa,Belleza,Esmalte,8,18,8
+2026-06-14,Cusco,Hogar,Organizador,3,35,18
+2026-02-05,Arequipa,Hogar,Lámpara,5,85,48
+2026-05-30,Cusco,Belleza,Kit de uñas,7,75,40
+2026-02-26,Arequipa,Hogar,Lámpara,8,85,48
+2026-01-13,Tacna,Tecnología,Mouse inalámbrico,3,65,35
+2026-02-10,Cusco,Belleza,Kit de uñas,2,75,40
+2026-04-08,Cusco,Hogar,Organizador,5,35,18
+2026-01-03,Tacna,Belleza,Esmalte,5,18,8
+2026-03-29,Tacna,Belleza,Kit de uñas,5,75,40
+2026-02-10,Cusco,Hogar,Organizador,1,35,18
+2026-03-09,Arequipa,Belleza,Kit de uñas,2,75,40
+2026-03-18,Arequipa,Belleza,Kit de uñas,3,75,40
+2026-02-11,Tacna,Hogar,Lámpara,6,85,48
+2026-01-05,Tacna,Hogar,Organizador,6,35,18
+2026-03-03,Tacna,Hogar,Lámpara,4,85,48
+2026-01-21,Tacna,Belleza,Esmalte,8,18,8
+2026-05-17,Arequipa,Tecnología,Mouse inalámbrico,3,65,35
+2026-05-02,Arequipa,Belleza,Kit de uñas,5,75,40
+2026-06-05,Cusco,Belleza,Esmalte,4,18,8
+2026-06-26,Arequipa,Belleza,Esmalte,5,18,8
+2026-06-21,Lima,Hogar,Organizador,8,35,18
+2026-04-26,Tacna,Belleza,Esmalte,4,18,8
+2026-01-17,Lima,Tecnología,Teclado,1,110,70
+2026-05-22,Arequipa,Belleza,Esmalte,4,18,8
+2026-01-19,Tacna,Tecnología,Mouse inalámbrico,4,65,35
+2026-01-09,Lima,Tecnología,Mouse inalámbrico,2,65,35
+2026-03-02,Lima,Belleza,Esmalte,8,18,8
+2026-05-19,Arequipa,Tecnología,Teclado,8,110,70
+2026-05-02,Cusco,Tecnología,Teclado,4,110,70
+2026-01-25,Cusco,Tecnología,Mouse inalámbrico,6,65,35
+2026-04-16,Cusco,Hogar,Organizador,1,35,18
+2026-06-17,Tacna,Belleza,Kit de uñas,1,75,40
+2026-03-28,Tacna,Hogar,Organizador,4,35,18
+2026-02-18,Cusco,Tecnología,Teclado,3,110,70
+2026-02-16,Lima,Hogar,Organizador,8,35,18
+2026-01-20,Cusco,Tecnología,Teclado,2,110,70
+2026-06-16,Tacna,Tecnología,Mouse inalámbrico,2,65,35
+2026-02-12,Cusco,Tecnología,Teclado,8,110,70
+2026-02-24,Cusco,Hogar,Organizador,1,35,18
+2026-04-08,Tacna,Tecnología,Teclado,7,110,70
+2026-04-27,Lima,Hogar,Lámpara,7,85,48
+2026-05-23,Cusco,Belleza,Kit de uñas,3,75,40
+2026-03-17,Arequipa,Tecnología,Teclado,1,110,70
+2026-05-19,Tacna,Belleza,Esmalte,6,18,8
+2026-01-13,Cusco,Tecnología,Mouse inalámbrico,3,65,35
+2026-05-11,Tacna,Tecnología,Mouse inalámbrico,3,65,35
+2026-06-02,Tacna,Tecnología,Mouse inalámbrico,4,65,35
+2026-01-31,Arequipa,Hogar,Organizador,1,35,18
+2026-01-21,Cusco,Belleza,Esmalte,6,18,8
+2026-02-22,Lima,Hogar,Lámpara,4,85,48
+2026-04-12,Arequipa,Hogar,Lámpara,5,85,48
+2026-03-22,Tacna,Hogar,Organizador,1,35,18
+2026-06-09,Tacna,Hogar,Organizador,2,35,18
+2026-02-24,Lima,Belleza,Esmalte,3,18,8
+2026-01-18,Arequipa,Hogar,Lámpara,6,85,48
+2026-02-10,Cusco,Hogar,Lámpara,5,85,48
+2026-06-17,Tacna,Belleza,Esmalte,5,18,8
+2026-01-27,Arequipa,Belleza,Kit de uñas,5,75,40
+2026-01-28,Arequipa,Tecnología,Mouse inalámbrico,5,65,35
+2026-06-04,Arequipa,Hogar,Lámpara,6,85,48
+2026-06-25,Lima,Tecnología,Teclado,8,110,70
+2026-01-14,Tacna,Hogar,Lámpara,7,85,48
+2026-01-12,Tacna,Hogar,Lámpara,6,85,48
+2026-06-13,Lima,Tecnología,Teclado,3,110,70
+2026-04-24,Cusco,Belleza,Kit de uñas,1,75,40
+2026-01-20,Arequipa,Tecnología,Mouse inalámbrico,1,65,35
+2026-05-30,Arequipa,Hogar,Lámpara,7,85,48
+2026-01-11,Lima,Tecnología,Teclado,6,110,70
+2026-04-02,Arequipa,Tecnología,Mouse inalámbrico,4,65,35
+2026-01-27,Lima,Belleza,Kit de uñas,7,75,40
+2026-02-09,Arequipa,Belleza,Esmalte,3,18,8
+2026-04-16,Tacna,Tecnología,Teclado,3,110,70
+2026-03-27,Cusco,Belleza,Kit de uñas,4,75,40
+2026-02-10,Tacna,Hogar,Lámpara,7,85,48
+2026-05-01,Arequipa,Tecnología,Mouse inalámbrico,4,65,35
+2026-03-31,Lima,Hogar,Organizador,4,35,18
+2026-01-07,Arequipa,Tecnología,Teclado,7,110,70
+2026-03-13,Tacna,Hogar,Lámpara,5,85,48
+2026-06-14,Cusco,Hogar,Lámpara,6,85,48
+2026-01-30,Lima,Tecnología,Mouse inalámbrico,3,65,35
+2026-03-09,Tacna,Belleza,Esmalte,2,18,8
+2026-04-22,Lima,Belleza,Esmalte,6,18,8
+2026-06-05,Tacna,Hogar,Organizador,7,35,18
+2026-02-18,Lima,Belleza,Esmalte,1,18,8
+2026-04-22,Tacna,Belleza,Kit de uñas,4,75,40
+2026-04-21,Tacna,Hogar,Lámpara,6,85,48
+2026-03-22,Tacna,Belleza,Esmalte,5,18,8
+2026-03-21,Cusco,Belleza,Esmalte,6,18,8
+2026-06-28,Lima,Hogar,Organizador,3,35,18
+2026-04-18,Cusco,Tecnología,Teclado,3,110,70
+2026-05-26,Lima,Belleza,Esmalte,7,18,8
+2026-01-01,Lima,Belleza,Esmalte,5,18,8
+2026-04-21,Lima,Tecnología,Teclado,8,110,70
+2026-04-24,Arequipa,Hogar,Organizador,8,35,18
+2026-02-13,Tacna,Belleza,Kit de uñas,5,75,40
+2026-06-19,Lima,Belleza,Esmalte,2,18,8
+2026-06-22,Lima,Tecnología,Teclado,4,110,70
+2026-02-07,Tacna,Tecnología,Teclado,1,110,70
+2026-05-02,Tacna,Tecnología,Teclado,8,110,70
+2026-06-11,Arequipa,Hogar,Organizador,7,35,18
+2026-04-13,Arequipa,Hogar,Organizador,3,35,18
+2026-06-26,Tacna,Belleza,Kit de uñas,2,75,40
+2026-02-26,Arequipa,Hogar,Organizador,8,35,18
+2026-05-23,Arequipa,Tecnología,Mouse inalámbrico,2,65,35
+2026-02-04,Cusco,Hogar,Organizador,6,35,18
+2026-06-06,Cusco,Hogar,Organizador,8,35,18
+2026-05-02,Cusco,Tecnología,Teclado,5,110,70
+2026-06-13,Lima,Tecnología,Teclado,8,110,70
+2026-03-03,Lima,Belleza,Kit de uñas,8,75,40
+2026-03-15,Arequipa,Tecnología,Mouse inalámbrico,5,65,35
+2026-03-23,Tacna,Hogar,Lámpara,3,85,48
+2026-03-01,Cusco,Tecnología,Teclado,3,110,70
+2026-02-24,Tacna,Belleza,Kit de uñas,7,75,40
+2026-03-26,Cusco,Hogar,Organizador,7,35,18
+2026-02-22,Cusco,Tecnología,Mouse inalámbrico,7,65,35
+2026-06-28,Tacna,Belleza,Esmalte,7,18,8
+2026-01-02,Lima,Hogar,Organizador,5,35,18
+2026-04-18,Arequipa,Hogar,Organizador,8,35,18
+2026-03-11,Cusco,Tecnología,Teclado,8,110,70
+2026-04-10,Lima,Tecnología,Mouse inalámbrico,7,65,35
+2026-02-12,Cusco,Belleza,Kit de uñas,3,75,40
+2026-05-17,Tacna,Belleza,Esmalte,7,18,8
+2026-05-25,Tacna,Belleza,Esmalte,2,18,8
+2026-04-20,Arequipa,Belleza,Kit de uñas,8,75,40
+2026-01-13,Lima,Tecnología,Teclado,7,110,70
+2026-02-24,Cusco,Hogar,Lámpara,6,85,48
+2026-04-08,Lima,Hogar,Lámpara,7,85,48
+2026-01-21,Cusco,Hogar,Lámpara,1,85,48
+2026-05-19,Tacna,Belleza,Kit de uñas,6,75,40
+2026-06-16,Tacna,Tecnología,Teclado,1,110,70
+2026-03-05,Arequipa,Tecnología,Mouse inalámbrico,1,65,35
+2026-02-09,Arequipa,Belleza,Esmalte,3,18,8
+2026-06-21,Tacna,Hogar,Organizador,4,35,18
+2026-06-29,Lima,Hogar,Organizador,6,35,18
+2026-06-05,Tacna,Tecnología,Teclado,3,110,70
+2026-01-28,Tacna,Hogar,Lámpara,5,85,48
+2026-06-23,Cusco,Belleza,Esmalte,7,18,8
+2026-02-20,Tacna,Belleza,Kit de uñas,4,75,40
+2026-06-28,Lima,Tecnología,Mouse inalámbrico,2,65,35
+2026-01-11,Lima,Belleza,Esmalte,7,18,8
+2026-04-05,Tacna,Belleza,Kit de uñas,6,75,40
+2026-04-18,Cusco,Tecnología,Mouse inalámbrico,2,65,35
+2026-04-03,Cusco,Hogar,Organizador,3,35,18
+2026-02-15,Lima,Hogar,Organizador,8,35,18
+2026-04-22,Lima,Hogar,Organizador,6,35,18
+2026-01-23,Lima,Tecnología,Teclado,8,110,70
+2026-04-29,Cusco,Tecnología,Teclado,6,110,70
+2026-05-07,Lima,Tecnología,Mouse inalámbrico,3,65,35
+2026-02-24,Lima,Hogar,Organizador,5,35,18
+2026-03-13,Lima,Hogar,Lámpara,1,85,48
+2026-02-18,Tacna,Belleza,Esmalte,4,18,8
+2026-04-15,Cusco,Belleza,Kit de uñas,4,75,40
+2026-05-02,Cusco,Belleza,Kit de uñas,8,75,40
+2026-01-24,Lima,Tecnología,Mouse inalámbrico,4,65,35
+2026-06-27,Arequipa,Hogar,Organizador,5,35,18
+2026-05-29,Lima,Belleza,Kit de uñas,8,75,40
+2026-05-16,Lima,Belleza,Esmalte,7,18,8
+2026-05-21,Lima,Belleza,Kit de uñas,6,75,40
+2026-04-27,Lima,Belleza,Kit de uñas,5,75,40
+2026-03-01,Tacna,Hogar,Lámpara,4,85,48
+2026-01-31,Arequipa,Hogar,Lámpara,4,85,48
+2026-05-04,Lima,Tecnología,Teclado,5,110,70
+2026-02-19,Lima,Tecnología,Mouse inalámbrico,4,65,35
+2026-02-15,Lima,Hogar,Lámpara,1,85,48
+2026-05-17,Arequipa,Belleza,Kit de uñas,5,75,40
+2026-01-14,Lima,Tecnología,Mouse inalámbrico,3,65,35
+2026-05-06,Tacna,Belleza,Kit de uñas,1,75,40
+2026-03-14,Cusco,Belleza,Esmalte,8,18,8
+2026-03-29,Arequipa,Hogar,Organizador,1,35,18
+2026-05-03,Tacna,Hogar,Lámpara,2,85,48
+2026-05-06,Tacna,Hogar,Organizador,1,35,18
+2026-02-08,Lima,Tecnología,Teclado,2,110,70
+2026-01-31,Cusco,Tecnología,Teclado,4,110,70
+2026-04-08,Cusco,Belleza,Esmalte,8,18,8
+2026-05-31,Cusco,Hogar,Lámpara,5,85,48
+2026-06-08,Tacna,Belleza,Esmalte,2,18,8
+2026-06-10,Arequipa,Tecnología,Teclado,5,110,70
+2026-01-21,Arequipa,Belleza,Kit de uñas,4,75,40
+2026-05-22,Tacna,Tecnología,Teclado,3,110,70
+2026-04-15,Cusco,Tecnología,Mouse inalámbrico,8,65,35
+2026-01-09,Arequipa,Hogar,Lámpara,5,85,48
+2026-03-14,Cusco,Belleza,Kit de uñas,2,75,40
+2026-03-01,Lima,Belleza,Kit de uñas,4,75,40
+2026-01-30,Arequipa,Hogar,Organizador,3,35,18
+2026-02-06,Tacna,Hogar,Lámpara,1,85,48
+2026-03-20,Lima,Tecnología,Teclado,8,110,70
+2026-04-30,Lima,Tecnología,Mouse inalámbrico,7,65,35
+2026-05-09,Cusco,Hogar,Lámpara,8,85,48
+2026-06-03,Tacna,Tecnología,Mouse inalámbrico,7,65,35
+2026-03-24,Lima,Belleza,Kit de uñas,1,75,40
+2026-02-28,Tacna,Tecnología,Mouse inalámbrico,5,65,35
+2026-01-11,Arequipa,Belleza,Esmalte,8,18,8
+2026-06-16,Cusco,Belleza,Esmalte,5,18,8
+2026-05-30,Cusco,Tecnología,Teclado,8,110,70
+2026-05-01,Lima,Tecnología,Mouse inalámbrico,7,65,35
+2026-03-24,Tacna,Hogar,Lámpara,3,85,48
+2026-04-16,Cusco,Hogar,Lámpara,5,85,48
+2026-04-13,Tacna,Belleza,Kit de uñas,8,75,40
+2026-03-22,Lima,Tecnología,Mouse inalámbrico,6,65,35
+2026-04-14,Tacna,Tecnología,Mouse inalámbrico,8,65,35
+2026-01-14,Arequipa,Hogar,Organizador,6,35,18
+2026-05-08,Cusco,Belleza,Esmalte,1,18,8
+2026-03-10,Arequipa,Tecnología,Teclado,5,110,70
+2026-06-28,Cusco,Hogar,Organizador,2,35,18
+2026-06-11,Arequipa,Tecnología,Mouse inalámbrico,3,65,35
+2026-05-22,Tacna,Hogar,Lámpara,7,85,48
+2026-02-27,Tacna,Tecnología,Mouse inalámbrico,8,65,35
+2026-06-15,Arequipa,Tecnología,Mouse inalámbrico,8,65,35
+2026-03-16,Lima,Belleza,Kit de uñas,7,75,40
+2026-05-01,Arequipa,Hogar,Organizador,8,35,18
+2026-02-07,Cusco,Belleza,Esmalte,4,18,8
+2026-05-11,Arequipa,Belleza,Esmalte,2,18,8
+2026-04-17,Lima,Hogar,Lámpara,5,85,48
+2026-03-14,Lima,Tecnología,Mouse inalámbrico,8,65,35
+2026-04-25,Cusco,Tecnología,Teclado,6,110,70
+2026-05-22,Cusco,Hogar,Lámpara,8,85,48
+2026-02-18,Arequipa,Hogar,Lámpara,7,85,48
+2026-04-16,Tacna,Tecnología,Teclado,6,110,70
+2026-05-02,Cusco,Belleza,Kit de uñas,7,75,40
+2026-06-16,Arequipa,Belleza,Kit de uñas,8,75,40
+2026-02-02,Lima,Tecnología,Mouse inalámbrico,2,65,35
+2026-01-26,Cusco,Hogar,Organizador,1,35,18
+2026-02-06,Cusco,Belleza,Kit de uñas,3,75,40
+2026-05-01,Lima,Tecnología,Mouse inalámbrico,6,65,35
+2026-06-27,Cusco,Belleza,Esmalte,2,18,8
+2026-06-22,Cusco,Hogar,Lámpara,6,85,48
+2026-05-05,Tacna,Belleza,Kit de uñas,2,75,40
+2026-06-11,Lima,Tecnología,Teclado,4,110,70
+2026-01-24,Cusco,Belleza,Kit de uñas,2,75,40
+2026-06-30,Tacna,Belleza,Kit de uñas,8,75,40
+2026-06-27,Lima,Tecnología,Teclado,1,110,70
+2026-03-25,Tacna,Tecnología,Mouse inalámbrico,5,65,35
+2026-04-06,Cusco,Hogar,Lámpara,3,85,48
+2026-05-16,Cusco,Tecnología,Teclado,3,110,70
+2026-02-14,Tacna,Tecnología,Teclado,7,110,70
+2026-06-24,Arequipa,Belleza,Esmalte,8,18,8
+2026-02-06,Arequipa,Belleza,Esmalte,8,18,8
+2026-03-07,Cusco,Belleza,Kit de uñas,5,75,40
+2026-01-03,Cusco,Belleza,Kit de uñas,5,75,40
+2026-05-20,Arequipa,Belleza,Kit de uñas,2,75,40
+2026-03-30,Lima,Hogar,Organizador,7,35,18
+2026-03-06,Cusco,Belleza,Kit de uñas,5,75,40
+2026-04-09,Cusco,Tecnología,Teclado,2,110,70
+2026-04-08,Lima,Tecnología,Teclado,5,110,70
+2026-03-17,Tacna,Belleza,Kit de uñas,7,75,40
+2026-01-03,Tacna,Hogar,Lámpara,8,85,48
+2026-02-28,Lima,Hogar,Lámpara,4,85,48
+2026-02-18,Lima,Belleza,Kit de uñas,3,75,40
+2026-01-25,Tacna,Belleza,Kit de uñas,5,75,40
+2026-01-09,Lima,Hogar,Organizador,3,35,18
+2026-03-17,Lima,Tecnología,Mouse inalámbrico,7,65,35
+2026-02-21,Arequipa,Tecnología,Teclado,6,110,70
+2026-05-09,Lima,Belleza,Esmalte,3,18,8
+2026-05-04,Lima,Hogar,Lámpara,6,85,48
+2026-04-30,Tacna,Tecnología,Mouse inalámbrico,3,65,35
+2026-06-23,Cusco,Tecnología,Teclado,6,110,70
+2026-04-12,Tacna,Tecnología,Mouse inalámbrico,5,65,35
+2026-02-01,Cusco,Belleza,Esmalte,6,18,8
+2026-06-22,Lima,Belleza,Kit de uñas,7,75,40
+2026-04-06,Tacna,Belleza,Kit de uñas,4,75,40
+2026-01-07,Lima,Hogar,Organizador,4,35,18
+2026-01-17,Cusco,Belleza,Kit de uñas,5,75,40
+2026-04-15,Tacna,Belleza,Kit de uñas,3,75,40
+2026-01-10,Lima,Tecnología,Mouse inalámbrico,8,65,35
+2026-01-25,Arequipa,Tecnología,Mouse inalámbrico,3,65,35
+2026-04-27,Lima,Hogar,Organizador,7,35,18
+2026-02-09,Cusco,Belleza,Esmalte,2,18,8
+2026-06-07,Cusco,Hogar,Organizador,5,35,18
+2026-06-26,Lima,Tecnología,Mouse inalámbrico,4,65,35
+2026-04-24,Arequipa,Hogar,Organizador,6,35,18
+2026-06-25,Lima,Tecnología,Mouse inalámbrico,6,65,35
+2026-04-12,Lima,Tecnología,Mouse inalámbrico,4,65,35
+2026-04-27,Tacna,Tecnología,Mouse inalámbrico,4,65,35
+2026-06-13,Tacna,Belleza,Kit de uñas,1,75,40
+2026-03-04,Arequipa,Hogar,Lámpara,4,85,48
+2026-05-22,Arequipa,Tecnología,Mouse inalámbrico,4,65,35
+2026-03-26,Arequipa,Tecnología,Teclado,1,110,70
+2026-02-07,Arequipa,Hogar,Lámpara,5,85,48
+2026-01-29,Tacna,Tecnología,Teclado,3,110,70
+2026-04-02,Arequipa,Tecnología,Mouse inalámbrico,6,65,35
+2026-02-14,Lima,Tecnología,Mouse inalámbrico,1,65,35
+2026-04-18,Tacna,Tecnología,Teclado,2,110,70
+2026-04-25,Lima,Hogar,Organizador,2,35,18
+2026-05-09,Arequipa,Hogar,Organizador,1,35,18
+2026-06-18,Lima,Belleza,Kit de uñas,8,75,40
+2026-01-08,Tacna,Belleza,Kit de uñas,8,75,40
+2026-04-20,Tacna,Hogar,Organizador,8,35,18
+2026-04-24,Tacna,Belleza,Kit de uñas,2,75,40
+2026-06-05,Arequipa,Hogar,Lámpara,2,85,48
+2026-03-12,Lima,Tecnología,Teclado,7,110,70
+2026-05-16,Lima,Belleza,Esmalte,8,18,8
+2026-06-04,Cusco,Belleza,Esmalte,2,18,8
+2026-01-30,Arequipa,Belleza,Kit de uñas,7,75,40
+2026-02-28,Cusco,Hogar,Organizador,6,35,18
+2026-04-13,Cusco,Hogar,Organizador,2,35,18
+2026-04-20,Lima,Hogar,Lámpara,5,85,48
+2026-02-09,Cusco,Hogar,Lámpara,2,85,48
+2026-01-22,Tacna,Tecnología,Mouse inalámbrico,7,65,35
+2026-04-06,Arequipa,Tecnología,Mouse inalámbrico,1,65,35
+2026-05-24,Lima,Belleza,Esmalte,2,18,8
+2026-04-01,Cusco,Hogar,Organizador,1,35,18
+2026-06-03,Lima,Hogar,Lámpara,6,85,48
+2026-05-28,Arequipa,Tecnología,Mouse inalámbrico,3,65,35
+2026-05-04,Arequipa,Belleza,Kit de uñas,2,75,40
+2026-05-23,Lima,Hogar,Lámpara,2,85,48
+2026-05-27,Arequipa,Hogar,Lámpara,7,85,48
+2026-06-09,Tacna,Belleza,Esmalte,5,18,8
+2026-02-16,Lima,Tecnología,Mouse inalámbrico,5,65,35
+2026-03-31,Tacna,Hogar,Lámpara,3,85,48
+2026-05-25,Cusco,Tecnología,Teclado,2,110,70
+2026-06-12,Tacna,Tecnología,Teclado,2,110,70
+2026-05-16,Arequipa,Belleza,Kit de uñas,7,75,40
+2026-04-27,Lima,Hogar,Organizador,3,35,18
+2026-03-21,Lima,Hogar,Lámpara,2,85,48
+2026-02-09,Arequipa,Tecnología,Mouse inalámbrico,1,65,35
+2026-01-21,Lima,Belleza,Kit de uñas,8,75,40
+2026-04-19,Cusco,Belleza,Kit de uñas,8,75,40
+2026-03-11,Arequipa,Hogar,Organizador,2,35,18
+2026-04-21,Tacna,Hogar,Lámpara,5,85,48
+2026-06-23,Cusco,Belleza,Kit de uñas,5,75,40
+2026-02-26,Cusco,Tecnología,Mouse inalámbrico,1,65,35
+2026-02-22,Lima,Tecnología,Mouse inalámbrico,4,65,35
+2026-03-07,Lima,Tecnología,Teclado,6,110,70
+2026-01-02,Cusco,Tecnología,Mouse inalámbrico,7,65,35
+2026-02-03,Cusco,Tecnología,Teclado,4,110,70
+2026-05-24,Lima,Belleza,Esmalte,2,18,8
+2026-01-11,Cusco,Hogar,Organizador,1,35,18
+2026-01-20,Lima,Hogar,Organizador,7,35,18
+2026-04-14,Cusco,Belleza,Esmalte,5,18,8
+2026-04-14,Tacna,Tecnología,Mouse inalámbrico,6,65,35
+2026-06-08,Cusco,Tecnología,Teclado,6,110,70
+2026-04-22,Tacna,Tecnología,Mouse inalámbrico,4,65,35
+2026-05-31,Cusco,Hogar,Organizador,2,35,18
+2026-03-21,Lima,Hogar,Organizador,4,35,18
+2026-02-13,Tacna,Hogar,Lámpara,2,85,48
+2026-05-11,Arequipa,Belleza,Esmalte,6,18,8
+2026-06-15,Arequipa,Hogar,Lámpara,4,85,48
+2026-02-07,Lima,Tecnología,Mouse inalámbrico,4,65,35
+2026-06-04,Arequipa,Tecnología,Teclado,2,110,70
+2026-06-10,Cusco,Tecnología,Teclado,8,110,70
+2026-05-29,Cusco,Belleza,Esmalte,6,18,8
+2026-03-22,Arequipa,Belleza,Kit de uñas,8,75,40
+2026-05-01,Cusco,Tecnología,Mouse inalámbrico,5,65,35
+2026-06-01,Tacna,Hogar,Lámpara,6,85,48
+2026-01-19,Lima,Belleza,Esmalte,8,18,8
+2026-01-10,Tacna,Hogar,Organizador,6,35,18
+2026-01-20,Tacna,Hogar,Lámpara,7,85,48
+2026-05-29,Tacna,Hogar,Organizador,8,35,18
+2026-06-16,Arequipa,Belleza,Esmalte,6,18,8
+2026-05-02,Arequipa,Belleza,Esmalte,1,18,8
+2026-01-27,Lima,Hogar,Organizador,2,35,18
+2026-06-15,Arequipa,Belleza,Esmalte,1,18,8
+2026-04-23,Cusco,Tecnología,Teclado,3,110,70
+2026-04-06,Lima,Hogar,Lámpara,7,85,48
+2026-03-28,Tacna,Hogar,Organizador,6,35,18
+2026-03-26,Tacna,Tecnología,Mouse inalámbrico,7,65,35
+2026-03-06,Arequipa,Hogar,Lámpara,6,85,48
+2026-05-30,Arequipa,Tecnología,Mouse inalámbrico,6,65,35
+2026-06-17,Cusco,Hogar,Lámpara,3,85,48
+2026-01-22,Lima,Belleza,Esmalte,7,18,8
+2026-03-26,Arequipa,Belleza,Kit de uñas,2,75,40
+2026-06-21,Cusco,Belleza,Kit de uñas,6,75,40
+2026-04-03,Lima,Tecnología,Mouse inalámbrico,3,65,35
+2026-03-29,Cusco,Tecnología,Teclado,4,110,70
+2026-02-05,Arequipa,Tecnología,Teclado,2,110,70
+2026-01-26,Tacna,Hogar,Lámpara,6,85,48
+2026-02-03,Cusco,Belleza,Esmalte,3,18,8
+2026-02-16,Arequipa,Tecnología,Teclado,8,110,70
+2026-04-16,Lima,Tecnología,Mouse inalámbrico,4,65,35
+2026-06-06,Lima,Hogar,Organizador,8,35,18
+2026-05-17,Arequipa,Tecnología,Teclado,5,110,70
+2026-02-19,Lima,Hogar,Organizador,8,35,18
+2026-03-14,Cusco,Hogar,Organizador,7,35,18
+2026-02-21,Arequipa,Tecnología,Teclado,5,110,70
+2026-06-14,Cusco,Tecnología,Mouse inalámbrico,6,65,35
+2026-01-27,Tacna,Belleza,Esmalte,5,18,8
+2026-02-11,Lima,Tecnología,Mouse inalámbrico,8,65,35
+2026-02-07,Cusco,Belleza,Esmalte,2,18,8
+2026-04-26,Lima,Tecnología,Teclado,1,110,70
+2026-01-14,Cusco,Hogar,Organizador,6,35,18
+2026-04-09,Tacna,Tecnología,Teclado,6,110,70
+2026-01-08,Lima,Tecnología,Teclado,2,110,70
+2026-06-16,Lima,Belleza,Kit de uñas,3,75,40
+2026-01-10,Lima,Tecnología,Teclado,8,110,70
+2026-02-05,Cusco,Belleza,Kit de uñas,8,75,40
+2026-01-02,Tacna,Belleza,Esmalte,1,18,8
+2026-02-25,Arequipa,Hogar,Lámpara,7,85,48
+2026-03-15,Arequipa,Tecnología,Mouse inalámbrico,5,65,35
+2026-01-13,Arequipa,Tecnología,Mouse inalámbrico,7,65,35
+2026-06-09,Cusco,Belleza,Kit de uñas,2,75,40
+2026-05-08,Tacna,Tecnología,Mouse inalámbrico,4,65,35
+2026-02-06,Lima,Belleza,Kit de uñas,7,75,40
+2026-06-07,Lima,Tecnología,Mouse inalámbrico,4,65,35
+2026-04-17,Arequipa,Belleza,Esmalte,2,18,8
+2026-04-03,Tacna,Belleza,Esmalte,1,18,8
+2026-05-01,Tacna,Hogar,Organizador,7,35,18
+2026-03-06,Tacna,Hogar,Lámpara,6,85,48
+2026-03-30,Arequipa,Tecnología,Mouse inalámbrico,2,65,35
+2026-03-27,Arequipa,Belleza,Esmalte,1,18,8
+2026-05-20,Lima,Hogar,Lámpara,3,85,48
+2026-04-29,Cusco,Belleza,Kit de uñas,3,75,40
+2026-01-17,Cusco,Tecnología,Teclado,1,110,70
+2026-02-21,Tacna,Hogar,Lámpara,4,85,48
+2026-03-22,Lima,Tecnología,Mouse inalámbrico,7,65,35
+2026-05-02,Lima,Belleza,Esmalte,1,18,8
+2026-02-18,Lima,Belleza,Kit de uñas,6,75,40
+2026-06-17,Lima,Tecnología,Mouse inalámbrico,5,65,35
+2026-04-05,Cusco,Tecnología,Mouse inalámbrico,7,65,35
+2026-04-23,Cusco,Belleza,Kit de uñas,6,75,40
+2026-05-08,Cusco,Tecnología,Teclado,6,110,70
+2026-03-10,Tacna,Belleza,Esmalte,7,18,8
+2026-04-21,Arequipa,Tecnología,Mouse inalámbrico,5,65,35
+2026-01-27,Tacna,Hogar,Lámpara,6,85,48
+2026-03-17,Lima,Belleza,Kit de uñas,8,75,40
+2026-04-20,Arequipa,Belleza,Esmalte,8,18,8
+2026-04-25,Tacna,Hogar,Lámpara,6,85,48
+2026-04-22,Lima,Belleza,Esmalte,1,18,8
+2026-06-21,Cusco,Tecnología,Mouse inalámbrico,6,65,35
+2026-06-23,Arequipa,Belleza,Esmalte,1,18,8
+2026-06-05,Cusco,Tecnología,Teclado,1,110,70
+2026-01-18,Arequipa,Tecnología,Teclado,6,110,70
+2026-04-09,Tacna,Hogar,Lámpara,3,85,48
+2026-04-26,Lima,Belleza,Kit de uñas,6,75,40
+2026-01-20,Arequipa,Hogar,Organizador,6,35,18
+2026-03-22,Lima,Hogar,Organizador,4,35,18
+2026-01-07,Arequipa,Tecnología,Mouse inalámbrico,8,65,35
+2026-04-10,Tacna,Belleza,Esmalte,5,18,8
+2026-06-30,Cusco,Hogar,Lámpara,4,85,48
+2026-03-15,Cusco,Belleza,Esmalte,4,18,8
+2026-02-04,Tacna,Tecnología,Mouse inalámbrico,8,65,35
+2026-04-24,Tacna,Tecnología,Teclado,6,110,70
+2026-03-30,Tacna,Belleza,Kit de uñas,5,75,40
+2026-02-10,Arequipa,Hogar,Lámpara,6,85,48
+2026-02-27,Tacna,Belleza,Esmalte,4,18,8
+2026-03-02,Cusco,Tecnología,Teclado,1,110,70
+2026-05-22,Lima,Hogar,Lámpara,8,85,48
+2026-02-03,Tacna,Belleza,Esmalte,2,18,8
+2026-04-12,Cusco,Hogar,Lámpara,7,85,48
+2026-05-28,Tacna,Hogar,Organizador,3,35,18
+2026-06-14,Tacna,Hogar,Lámpara,8,85,48
+2026-06-24,Lima,Hogar,Organizador,3,35,18
+2026-06-13,Arequipa,Belleza,Esmalte,3,18,8
+2026-05-09,Tacna,Hogar,Organizador,2,35,18
+2026-02-09,Lima,Belleza,Esmalte,3,18,8
+2026-03-24,Arequipa,Tecnología,Teclado,6,110,70
+2026-03-14,Tacna,Belleza,Esmalte,5,18,8
+2026-06-12,Lima,Tecnología,Teclado,3,110,70
+2026-03-19,Tacna,Belleza,Kit de uñas,3,75,40
+2026-05-29,Arequipa,Belleza,Esmalte,3,18,8
+2026-06-09,Lima,Belleza,Kit de uñas,1,75,40
+2026-01-21,Tacna,Tecnología,Mouse inalámbrico,5,65,35
+2026-02-23,Cusco,Belleza,Kit de uñas,1,75,40
+2026-06-10,Lima,Hogar,Organizador,5,35,18
+2026-03-04,Cusco,Hogar,Organizador,5,35,18
+2026-01-19,Tacna,Hogar,Organizador,3,35,18
+2026-04-17,Cusco,Hogar,Organizador,8,35,18
+2026-03-29,Arequipa,Tecnología,Teclado,6,110,70
+2026-03-23,Lima,Belleza,Kit de uñas,7,75,40
+2026-04-05,Tacna,Tecnología,Teclado,6,110,70
+2026-04-30,Tacna,Tecnología,Teclado,5,110,70
+2026-03-05,Arequipa,Hogar,Organizador,2,35,18
+2026-03-16,Cusco,Tecnología,Mouse inalámbrico,7,65,35
+2026-02-10,Lima,Tecnología,Teclado,6,110,70
+2026-02-10,Cusco,Tecnología,Teclado,8,110,70
+2026-03-20,Cusco,Hogar,Organizador,1,35,18
+2026-04-11,Cusco,Tecnología,Mouse inalámbrico,4,65,35
+2026-05-30,Lima,Tecnología,Teclado,1,110,70
+2026-03-14,Cusco,Tecnología,Mouse inalámbrico,8,65,35
+2026-05-18,Tacna,Hogar,Lámpara,2,85,48
+2026-02-04,Lima,Hogar,Organizador,6,35,18
+2026-04-04,Tacna,Hogar,Organizador,7,35,18
+2026-05-26,Arequipa,Tecnología,Mouse inalámbrico,6,65,35
+2026-03-15,Tacna,Belleza,Esmalte,7,18,8
+2026-04-26,Lima,Belleza,Esmalte,2,18,8
+2026-01-25,Cusco,Tecnología,Teclado,6,110,70
+2026-05-23,Lima,Hogar,Lámpara,3,85,48
+2026-06-04,Cusco,Tecnología,Teclado,1,110,70
+2026-01-10,Arequipa,Tecnología,Mouse inalámbrico,6,65,35
+2026-05-13,Cusco,Hogar,Organizador,3,35,18
+2026-05-12,Arequipa,Belleza,Esmalte,6,18,8
+2026-03-23,Arequipa,Belleza,Esmalte,7,18,8
+2026-03-18,Lima,Belleza,Esmalte,8,18,8
+2026-05-25,Lima,Belleza,Kit de uñas,8,75,40
+2026-04-05,Lima,Tecnología,Mouse inalámbrico,2,65,35
+2026-05-30,Lima,Hogar,Organizador,1,35,18
+2026-05-02,Lima,Belleza,Esmalte,4,18,8
+2026-01-14,Cusco,Belleza,Kit de uñas,3,75,40
+2026-06-11,Cusco,Belleza,Esmalte,3,18,8
+2026-03-04,Tacna,Belleza,Kit de uñas,2,75,40
+2026-01-05,Cusco,Tecnología,Teclado,6,110,70
+2026-02-08,Cusco,Hogar,Organizador,4,35,18
+2026-05-09,Cusco,Hogar,Organizador,1,35,18
+2026-02-05,Arequipa,Belleza,Kit de uñas,6,75,40
+2026-05-03,Cusco,Belleza,Kit de uñas,6,75,40
+2026-04-28,Lima,Tecnología,Teclado,6,110,70
+2026-06-24,Lima,Belleza,Kit de uñas,8,75,40
+2026-03-05,Lima,Tecnología,Teclado,5,110,70
+2026-03-18,Lima,Tecnología,Teclado,4,110,70
+2026-06-30,Cusco,Belleza,Kit de uñas,6,75,40
+2026-03-31,Lima,Hogar,Organizador,5,35,18
+2026-05-27,Cusco,Tecnología,Mouse inalámbrico,7,65,35
+2026-02-07,Lima,Hogar,Lámpara,1,85,48
+2026-01-21,Lima,Hogar,Lámpara,8,85,48
+2026-03-07,Cusco,Belleza,Kit de uñas,4,75,40
+2026-05-18,Lima,Tecnología,Teclado,5,110,70
+2026-01-28,Arequipa,Tecnología,Teclado,4,110,70
+2026-06-21,Arequipa,Tecnología,Mouse inalámbrico,4,65,35
+2026-01-26,Cusco,Tecnología,Mouse inalámbrico,6,65,35
+2026-05-01,Tacna,Belleza,Kit de uñas,3,75,40
+2026-05-21,Arequipa,Tecnología,Mouse inalámbrico,7,65,35
+2026-05-02,Cusco,Belleza,Kit de uñas,4,75,40
+2026-03-24,Lima,Hogar,Lámpara,1,85,48
+2026-06-16,Arequipa,Tecnología,Mouse inalámbrico,1,65,35
+2026-04-17,Arequipa,Tecnología,Teclado,1,110,70
+2026-05-07,Arequipa,Hogar,Organizador,5,35,18
+2026-01-03,Lima,Tecnología,Mouse inalámbrico,2,65,35
+2026-03-14,Cusco,Hogar,Lámpara,8,85,48
+2026-05-10,Cusco,Tecnología,Teclado,5,110,70
+2026-01-29,Lima,Tecnología,Teclado,3,110,70
+2026-04-28,Lima,Belleza,Kit de uñas,3,75,40
+2026-03-28,Lima,Tecnología,Mouse inalámbrico,4,65,35
+2026-06-06,Cusco,Tecnología,Teclado,7,110,70
+2026-03-25,Tacna,Belleza,Esmalte,7,18,8
+2026-01-25,Arequipa,Belleza,Kit de uñas,3,75,40
+2026-03-24,Arequipa,Hogar,Organizador,1,35,18
+2026-04-09,Arequipa,Hogar,Lámpara,8,85,48
+2026-03-26,Lima,Hogar,Lámpara,1,85,48
+2026-06-17,Lima,Hogar,Lámpara,4,85,48
+2026-06-20,Tacna,Tecnología,Mouse inalámbrico,8,65,35
+2026-02-10,Cusco,Hogar,Lámpara,5,85,48
+2026-01-31,Lima,Belleza,Kit de uñas,6,75,40
+2026-02-26,Arequipa,Belleza,Esmalte,3,18,8
+2026-02-09,Cusco,Hogar,Organizador,6,35,18
+2026-06-29,Cusco,Hogar,Organizador,4,35,18
+2026-06-24,Tacna,Tecnología,Teclado,8,110,70
+2026-06-30,Lima,Belleza,Esmalte,2,18,8
+2026-01-29,Tacna,Belleza,Esmalte,4,18,8
+2026-05-18,Arequipa,Belleza,Esmalte,3,18,8
+2026-05-14,Cusco,Hogar,Lámpara,2,85,48
+2026-02-22,Cusco,Belleza,Kit de uñas,2,75,40
+2026-04-25,Tacna,Belleza,Esmalte,8,18,8
+2026-05-12,Cusco,Tecnología,Teclado,8,110,70
+2026-01-15,Cusco,Belleza,Esmalte,5,18,8
+2026-01-06,Cusco,Belleza,Kit de uñas,5,75,40
+2026-02-25,Tacna,Tecnología,Mouse inalámbrico,1,65,35
+2026-03-30,Tacna,Hogar,Organizador,1,35,18
+2026-05-01,Tacna,Tecnología,Mouse inalámbrico,5,65,35
+2026-02-16,Arequipa,Hogar,Organizador,7,35,18
+2026-04-08,Cusco,Hogar,Lámpara,7,85,48
+2026-01-21,Arequipa,Hogar,Organizador,6,35,18
+2026-02-15,Cusco,Tecnología,Mouse inalámbrico,3,65,35
+2026-02-27,Tacna,Belleza,Kit de uñas,1,75,40
+2026-04-29,Cusco,Hogar,Lámpara,7,85,48
+2026-03-05,Cusco,Tecnología,Teclado,6,110,70
+2026-03-12,Arequipa,Tecnología,Teclado,2,110,70
+2026-06-19,Cusco,Tecnología,Mouse inalámbrico,1,65,35
+2026-02-22,Tacna,Tecnología,Teclado,2,110,70
+2026-01-09,Cusco,Belleza,Esmalte,1,18,8
+2026-01-12,Cusco,Tecnología,Teclado,8,110,70
+2026-05-19,Arequipa,Tecnología,Teclado,1,110,70
+2026-05-09,Lima,Tecnología,Teclado,4,110,70
+2026-05-28,Lima,Belleza,Kit de uñas,6,75,40
+2026-03-19,Arequipa,Tecnología,Teclado,4,110,70
+2026-03-18,Lima,Hogar,Organizador,1,35,18
+2026-06-01,Arequipa,Belleza,Esmalte,7,18,8
+2026-05-07,Tacna,Belleza,Esmalte,6,18,8
+2026-06-21,Cusco,Belleza,Kit de uñas,6,75,40
+2026-04-17,Cusco,Belleza,Kit de uñas,3,75,40
+2026-04-07,Arequipa,Hogar,Lámpara,8,85,48
+2026-02-27,Lima,Tecnología,Teclado,3,110,70
+2026-01-15,Cusco,Hogar,Organizador,7,35,18
+2026-05-16,Arequipa,Belleza,Esmalte,7,18,8
+2026-03-07,Arequipa,Tecnología,Teclado,6,110,70
+2026-01-21,Cusco,Belleza,Kit de uñas,6,75,40
+2026-05-18,Arequipa,Tecnología,Mouse inalámbrico,1,65,35
+2026-04-07,Tacna,Hogar,Lámpara,2,85,48
+2026-05-31,Arequipa,Tecnología,Teclado,8,110,70
+2026-03-27,Lima,Tecnología,Teclado,1,110,70
+2026-02-18,Tacna,Tecnología,Teclado,8,110,70
+2026-06-28,Arequipa,Tecnología,Teclado,7,110,70
+2026-05-22,Lima,Tecnología,Teclado,5,110,70
+2026-04-30,Lima,Hogar,Organizador,5,35,18
+2026-04-03,Cusco,Hogar,Lámpara,8,85,48
+2026-05-01,Lima,Tecnología,Mouse inalámbrico,4,65,35
+2026-03-22,Cusco,Hogar,Lámpara,1,85,48
+2026-02-26,Arequipa,Belleza,Esmalte,1,18,8
+2026-05-22,Cusco,Hogar,Lámpara,5,85,48
+2026-02-20,Lima,Tecnología,Teclado,4,110,70
+2026-05-26,Arequipa,Hogar,Organizador,8,35,18
+2026-06-17,Lima,Belleza,Esmalte,5,18,8
+2026-06-14,Cusco,Hogar,Organizador,8,35,18
+2026-04-01,Arequipa,Tecnología,Teclado,3,110,70
+2026-05-20,Cusco,Belleza,Kit de uñas,3,75,40
+2026-06-14,Tacna,Belleza,Esmalte,1,18,8
+2026-06-21,Tacna,Tecnología,Mouse inalámbrico,1,65,35
+2026-02-05,Arequipa,Hogar,Organizador,2,35,18
+2026-02-08,Tacna,Belleza,Kit de uñas,4,75,40
+2026-04-27,Lima,Belleza,Esmalte,1,18,8
+2026-06-13,Cusco,Belleza,Esmalte,8,18,8
+2026-01-02,Cusco,Tecnología,Mouse inalámbrico,1,65,35
+2026-05-16,Lima,Tecnología,Mouse inalámbrico,5,65,35
+2026-05-09,Cusco,Tecnología,Mouse inalámbrico,3,65,35
+2026-01-25,Arequipa,Tecnología,Mouse inalámbrico,4,65,35
+2026-06-08,Lima,Tecnología,Teclado,6,110,70
+2026-04-12,Tacna,Hogar,Lámpara,6,85,48
+2026-04-28,Arequipa,Hogar,Organizador,4,35,18
+2026-06-25,Tacna,Hogar,Lámpara,1,85,48
+2026-04-14,Cusco,Tecnología,Mouse inalámbrico,7,65,35
+2026-05-02,Tacna,Belleza,Esmalte,1,18,8
+2026-02-13,Tacna,Belleza,Kit de uñas,8,75,40
+2026-06-15,Lima,Hogar,Organizador,2,35,18
+2026-01-11,Arequipa,Belleza,Esmalte,4,18,8
+2026-05-26,Cusco,Belleza,Kit de uñas,5,75,40
+2026-01-20,Lima,Tecnología,Mouse inalámbrico,1,65,35
+2026-03-22,Tacna,Tecnología,Teclado,4,110,70
+2026-02-06,Cusco,Belleza,Esmalte,2,18,8
+2026-02-11,Arequipa,Hogar,Lámpara,7,85,48
+2026-05-19,Lima,Belleza,Kit de uñas,7,75,40
+2026-02-05,Tacna,Belleza,Kit de uñas,6,75,40
+2026-01-26,Cusco,Tecnología,Mouse inalámbrico,4,65,35
+2026-03-29,Cusco,Tecnología,Mouse inalámbrico,6,65,35
+2026-06-12,Lima,Tecnología,Mouse inalámbrico,8,65,35
+2026-02-28,Lima,Hogar,Organizador,7,35,18
+2026-02-17,Cusco,Hogar,Organizador,2,35,18
+2026-03-17,Arequipa,Belleza,Esmalte,2,18,8
+2026-03-10,Arequipa,Tecnología,Mouse inalámbrico,7,65,35
+2026-06-12,Arequipa,Belleza,Kit de uñas,7,75,40
+2026-04-03,Tacna,Hogar,Lámpara,2,85,48
+2026-03-20,Cusco,Tecnología,Mouse inalámbrico,6,65,35
+2026-01-27,Arequipa,Hogar,Lámpara,2,85,48
+2026-04-21,Cusco,Tecnología,Teclado,7,110,70
+2026-01-07,Tacna,Tecnología,Mouse inalámbrico,6,65,35
+2026-01-24,Lima,Belleza,Esmalte,7,18,8
+2026-03-16,Cusco,Tecnología,Mouse inalámbrico,7,65,35
+2026-05-24,Arequipa,Tecnología,Mouse inalámbrico,3,65,35
+2026-04-08,Arequipa,Belleza,Kit de uñas,3,75,40
+2026-03-19,Lima,Hogar,Lámpara,8,85,48
+2026-01-17,Arequipa,Tecnología,Teclado,7,110,70
+2026-04-18,Lima,Hogar,Lámpara,8,85,48
+2026-04-03,Lima,Tecnología,Mouse inalámbrico,4,65,35
+2026-06-10,Cusco,Belleza,Kit de uñas,4,75,40
+2026-01-28,Arequipa,Hogar,Organizador,5,35,18
+2026-04-12,Lima,Tecnología,Mouse inalámbrico,7,65,35
+2026-04-23,Lima,Hogar,Lámpara,7,85,48
+2026-06-02,Arequipa,Belleza,Kit de uñas,5,75,40
+2026-06-04,Arequipa,Hogar,Lámpara,8,85,48
+2026-02-15,Cusco,Hogar,Lámpara,6,85,48
+2026-06-27,Cusco,Hogar,Lámpara,4,85,48
+2026-04-07,Lima,Hogar,Lámpara,7,85,48
+2026-01-30,Arequipa,Hogar,Lámpara,3,85,48
+2026-05-21,Tacna,Belleza,Kit de uñas,8,75,40
+2026-02-23,Cusco,Belleza,Kit de uñas,5,75,40
+2026-01-18,Cusco,Belleza,Kit de uñas,8,75,40
+2026-06-12,Lima,Tecnología,Teclado,4,110,70
+2026-06-18,Arequipa,Hogar,Lámpara,7,85,48
+2026-01-19,Cusco,Hogar,Organizador,8,35,18
+2026-04-13,Cusco,Belleza,Esmalte,1,18,8
+2026-06-29,Tacna,Hogar,Lámpara,2,85,48
+2026-06-18,Lima,Tecnología,Teclado,3,110,70
+2026-06-06,Tacna,Belleza,Kit de uñas,7,75,40
+2026-04-21,Tacna,Hogar,Lámpara,1,85,48
+2026-03-08,Arequipa,Tecnología,Mouse inalámbrico,4,65,35
+2026-04-06,Cusco,Hogar,Organizador,8,35,18
+2026-05-31,Arequipa,Belleza,Kit de uñas,6,75,40
+2026-05-04,Tacna,Tecnología,Mouse inalámbrico,5,65,35
+2026-01-22,Tacna,Hogar,Organizador,3,35,18
+2026-03-21,Lima,Hogar,Lámpara,8,85,48
+2026-05-14,Cusco,Tecnología,Teclado,6,110,70
+2026-01-25,Cusco,Hogar,Organizador,8,35,18
+2026-01-18,Lima,Hogar,Lámpara,1,85,48
+2026-01-30,Tacna,Belleza,Kit de uñas,6,75,40
+2026-01-28,Arequipa,Belleza,Kit de uñas,4,75,40
+2026-02-14,Arequipa,Belleza,Esmalte,6,18,8
+2026-04-20,Cusco,Belleza,Esmalte,4,18,8
+2026-06-11,Arequipa,Hogar,Organizador,3,35,18
+2026-06-18,Cusco,Belleza,Kit de uñas,7,75,40
+2026-06-07,Arequipa,Tecnología,Mouse inalámbrico,8,65,35
+2026-04-20,Cusco,Belleza,Esmalte,1,18,8
+2026-02-24,Arequipa,Belleza,Kit de uñas,5,75,40
+2026-01-17,Tacna,Belleza,Kit de uñas,3,75,40
+2026-03-25,Arequipa,Hogar,Lámpara,8,85,48
+2026-03-09,Cusco,Tecnología,Mouse inalámbrico,6,65,35
+2026-04-10,Cusco,Belleza,Esmalte,2,18,8
+2026-04-01,Cusco,Hogar,Lámpara,3,85,48
+2026-06-30,Lima,Belleza,Kit de uñas,2,75,40
+2026-02-04,Lima,Belleza,Kit de uñas,2,75,40
+2026-03-20,Tacna,Tecnología,Teclado,3,110,70
+2026-06-27,Arequipa,Hogar,Lámpara,7,85,48
+2026-06-02,Arequipa,Hogar,Organizador,7,35,18
+2026-02-17,Cusco,Hogar,Organizador,3,35,18
+2026-02-12,Cusco,Belleza,Esmalte,5,18,8
+2026-02-17,Lima,Tecnología,Teclado,8,110,70
+2026-01-14,Lima,Belleza,Esmalte,1,18,8
+2026-02-04,Arequipa,Hogar,Organizador,7,35,18
+2026-05-10,Cusco,Belleza,Esmalte,7,18,8
+2026-05-06,Cusco,Belleza,Kit de uñas,8,75,40
+2026-02-12,Tacna,Hogar,Organizador,1,35,18
+2026-03-16,Tacna,Tecnología,Teclado,5,110,70
+2026-05-18,Lima,Tecnología,Teclado,3,110,70
+2026-05-25,Cusco,Hogar,Organizador,2,35,18
+2026-01-30,Lima,Belleza,Esmalte,6,18,8
+2026-01-11,Cusco,Belleza,Esmalte,4,18,8
+2026-01-27,Arequipa,Hogar,Organizador,5,35,18
+2026-04-26,Lima,Tecnología,Mouse inalámbrico,6,65,35
+2026-04-23,Tacna,Tecnología,Mouse inalámbrico,4,65,35
+2026-05-31,Lima,Tecnología,Teclado,7,110,70
+2026-06-07,Arequipa,Tecnología,Teclado,4,110,70
+2026-01-16,Lima,Tecnología,Teclado,5,110,70
+2026-05-18,Arequipa,Belleza,Esmalte,6,18,8
+2026-03-16,Lima,Belleza,Kit de uñas,5,75,40
+2026-06-23,Tacna,Belleza,Esmalte,3,18,8
+2026-01-16,Lima,Hogar,Organizador,3,35,18
+2026-02-03,Arequipa,Belleza,Kit de uñas,3,75,40
+2026-03-24,Arequipa,Belleza,Kit de uñas,7,75,40
+2026-02-06,Lima,Hogar,Organizador,7,35,18
+2026-04-26,Tacna,Hogar,Organizador,2,35,18
+2026-05-12,Lima,Hogar,Organizador,6,35,18
+2026-05-05,Lima,Hogar,Organizador,1,35,18
+2026-01-24,Cusco,Belleza,Kit de uñas,6,75,40
+2026-05-17,Cusco,Tecnología,Mouse inalámbrico,4,65,35
+2026-02-24,Cusco,Hogar,Organizador,5,35,18
+2026-03-14,Lima,Hogar,Lámpara,3,85,48
+2026-05-05,Lima,Belleza,Esmalte,1,18,8
+2026-01-26,Cusco,Tecnología,Mouse inalámbrico,1,65,35
+2026-02-10,Cusco,Tecnología,Mouse inalámbrico,8,65,35
+2026-04-20,Arequipa,Tecnología,Mouse inalámbrico,3,65,35
+2026-03-19,Arequipa,Belleza,Kit de uñas,5,75,40
+2026-06-17,Lima,Tecnología,Mouse inalámbrico,5,65,35
+2026-04-06,Arequipa,Tecnología,Mouse inalámbrico,1,65,35
+2026-06-10,Lima,Hogar,Organizador,4,35,18
+2026-06-17,Tacna,Hogar,Organizador,2,35,18
+2026-02-24,Cusco,Tecnología,Mouse inalámbrico,2,65,35
+2026-06-01,Arequipa,Tecnología,Teclado,8,110,70
+2026-01-03,Lima,Tecnología,Mouse inalámbrico,2,65,35
+2026-06-27,Arequipa,Hogar,Organizador,8,35,18
+2026-02-28,Cusco,Tecnología,Mouse inalámbrico,2,65,35
+2026-01-27,Tacna,Belleza,Kit de uñas,6,75,40
+2026-03-18,Arequipa,Hogar,Lámpara,7,85,48
+2026-06-14,Arequipa,Tecnología,Teclado,2,110,70
+2026-05-25,Tacna,Belleza,Esmalte,3,18,8
+2026-03-31,Arequipa,Hogar,Organizador,3,35,18
+2026-06-07,Cusco,Hogar,Organizador,4,35,18
+2026-01-26,Arequipa,Tecnología,Mouse inalámbrico,2,65,35
+2026-04-09,Lima,Belleza,Esmalte,7,18,8
+2026-02-05,Arequipa,Hogar,Lámpara,5,85,48
+2026-01-22,Arequipa,Belleza,Kit de uñas,5,75,40
+2026-01-07,Lima,Belleza,Kit de uñas,4,75,40
+2026-06-05,Arequipa,Belleza,Esmalte,7,18,8
+2026-06-15,Tacna,Hogar,Lámpara,4,85,48
+2026-04-09,Tacna,Hogar,Organizador,4,35,18
+2026-06-13,Tacna,Hogar,Organizador,1,35,18
+2026-03-23,Arequipa,Hogar,Lámpara,7,85,48
+2026-04-18,Lima,Belleza,Esmalte,3,18,8
+2026-01-19,Tacna,Hogar,Organizador,2,35,18
+2026-03-09,Arequipa,Tecnología,Mouse inalámbrico,1,65,35
+2026-04-12,Lima,Tecnología,Mouse inalámbrico,7,65,35
+2026-06-29,Cusco,Hogar,Organizador,2,35,18
+2026-05-18,Arequipa,Belleza,Kit de uñas,5,75,40
+2026-03-21,Tacna,Tecnología,Mouse inalámbrico,4,65,35
+2026-05-18,Lima,Tecnología,Teclado,7,110,70
+2026-06-12,Tacna,Belleza,Esmalte,5,18,8
+2026-04-22,Arequipa,Belleza,Kit de uñas,1,75,40
+2026-01-23,Cusco,Tecnología,Teclado,2,110,70
+2026-06-06,Tacna,Hogar,Organizador,5,35,18
+2026-06-18,Arequipa,Belleza,Kit de uñas,2,75,40
+2026-02-05,Tacna,Tecnología,Mouse inalámbrico,3,65,35
+2026-03-30,Lima,Hogar,Organizador,3,35,18
+2026-02-02,Lima,Hogar,Lámpara,2,85,48
+2026-03-27,Cusco,Tecnología,Mouse inalámbrico,5,65,35
+2026-01-17,Lima,Belleza,Esmalte,2,18,8
+2026-04-27,Lima,Hogar,Organizador,1,35,18
+2026-05-26,Arequipa,Hogar,Organizador,6,35,18
+2026-03-07,Tacna,Tecnología,Teclado,2,110,70
+2026-05-11,Tacna,Tecnología,Teclado,1,110,70
+2026-03-04,Tacna,Tecnología,Mouse inalámbrico,8,65,35
+2026-04-09,Arequipa,Hogar,Lámpara,3,85,48
+2026-05-22,Cusco,Tecnología,Mouse inalámbrico,4,65,35
+2026-03-05,Cusco,Hogar,Lámpara,6,85,48
+2026-01-20,Lima,Hogar,Lámpara,2,85,48
+2026-06-22,Tacna,Belleza,Esmalte,3,18,8
+2026-05-13,Tacna,Tecnología,Teclado,7,110,70
+2026-04-30,Lima,Tecnología,Mouse inalámbrico,5,65,35
+2026-01-23,Cusco,Hogar,Lámpara,1,85,48
+2026-02-21,Lima,Hogar,Lámpara,5,85,48
+2026-06-09,Arequipa,Belleza,Kit de uñas,8,75,40
+2026-06-01,Cusco,Hogar,Lámpara,4,85,48
+2026-05-20,Arequipa,Belleza,Kit de uñas,3,75,40
+2026-04-15,Tacna,Tecnología,Mouse inalámbrico,4,65,35
+2026-03-30,Tacna,Belleza,Esmalte,6,18,8
+2026-06-18,Cusco,Tecnología,Mouse inalámbrico,5,65,35
+2026-02-22,Arequipa,Tecnología,Mouse inalámbrico,7,65,35
+2026-01-16,Arequipa,Hogar,Organizador,5,35,18
+2026-01-12,Arequipa,Tecnología,Mouse inalámbrico,7,65,35
+2026-04-06,Cusco,Belleza,Kit de uñas,2,75,40
+2026-01-25,Arequipa,Belleza,Esmalte,7,18,8
+2026-06-01,Tacna,Tecnología,Mouse inalámbrico,7,65,35
+2026-02-03,Arequipa,Belleza,Kit de uñas,5,75,40
+2026-03-22,Cusco,Hogar,Lámpara,6,85,48
+2026-04-26,Lima,Hogar,Lámpara,4,85,48
+2026-02-21,Arequipa,Tecnología,Mouse inalámbrico,2,65,35
+2026-01-28,Arequipa,Tecnología,Teclado,8,110,70
+2026-03-22,Cusco,Hogar,Organizador,2,35,18
+2026-04-02,Arequipa,Belleza,Esmalte,8,18,8
+2026-04-29,Lima,Hogar,Lámpara,2,85,48
+2026-02-10,Lima,Tecnología,Mouse inalámbrico,1,65,35
+2026-03-25,Arequipa,Tecnología,Teclado,2,110,70
+2026-03-05,Lima,Belleza,Kit de uñas,7,75,40
+2026-01-13,Lima,Belleza,Esmalte,5,18,8
+2026-01-08,Cusco,Tecnología,Teclado,8,110,70
+2026-05-21,Arequipa,Belleza,Esmalte,2,18,8
+2026-01-27,Arequipa,Hogar,Organizador,2,35,18
+2026-01-16,Arequipa,Tecnología,Mouse inalámbrico,3,65,35
+2026-04-13,Lima,Tecnología,Teclado,2,110,70
+2026-05-31,Lima,Belleza,Esmalte,2,18,8
+2026-01-17,Arequipa,Tecnología,Mouse inalámbrico,8,65,35
+2026-01-24,Lima,Tecnología,Teclado,2,110,70
+2026-04-29,Tacna,Tecnología,Mouse inalámbrico,3,65,35
+2026-04-21,Cusco,Belleza,Esmalte,8,18,8
+2026-04-08,Cusco,Tecnología,Mouse inalámbrico,3,65,35
+2026-02-24,Arequipa,Hogar,Lámpara,5,85,48
+2026-04-25,Arequipa,Hogar,Lámpara,1,85,48
+2026-06-08,Arequipa,Belleza,Esmalte,5,18,8
+2026-04-16,Cusco,Hogar,Organizador,1,35,18
+2026-03-13,Cusco,Tecnología,Mouse inalámbrico,3,65,35
+2026-02-21,Arequipa,Hogar,Organizador,1,35,18
+2026-04-02,Cusco,Hogar,Organizador,8,35,18
+2026-05-25,Lima,Hogar,Lámpara,7,85,48
+2026-02-16,Tacna,Hogar,Lámpara,6,85,48
+2026-02-26,Tacna,Belleza,Esmalte,5,18,8
+2026-05-01,Lima,Tecnología,Mouse inalámbrico,4,65,35
+2026-01-26,Arequipa,Tecnología,Teclado,4,110,70
+2026-05-17,Tacna,Hogar,Lámpara,4,85,48
+2026-04-10,Lima,Belleza,Esmalte,3,18,8
+2026-03-02,Lima,Tecnología,Teclado,6,110,70
+2026-01-08,Lima,Belleza,Esmalte,3,18,8
+2026-02-18,Cusco,Belleza,Esmalte,5,18,8
+2026-05-06,Tacna,Tecnología,Teclado,2,110,70
+2026-03-01,Arequipa,Tecnología,Mouse inalámbrico,1,65,35
+2026-05-03,Tacna,Belleza,Esmalte,6,18,8
+2026-02-21,Arequipa,Belleza,Esmalte,6,18,8
+2026-02-15,Lima,Belleza,Kit de uñas,1,75,40
+2026-02-07,Arequipa,Tecnología,Mouse inalámbrico,2,65,35
+2026-04-04,Tacna,Belleza,Esmalte,6,18,8
+2026-06-19,Cusco,Belleza,Kit de uñas,2,75,40
+2026-03-19,Lima,Hogar,Lámpara,3,85,48
+2026-04-22,Cusco,Tecnología,Teclado,6,110,70
+2026-05-24,Lima,Tecnología,Teclado,4,110,70
+2026-05-31,Arequipa,Belleza,Kit de uñas,7,75,40
+2026-06-26,Lima,Hogar,Lámpara,3,85,48
+2026-01-01,Cusco,Tecnología,Teclado,1,110,70
+2026-06-04,Lima,Tecnología,Teclado,4,110,70
+2026-05-25,Tacna,Belleza,Kit de uñas,8,75,40
+2026-03-26,Tacna,Tecnología,Teclado,4,110,70
+2026-03-23,Arequipa,Hogar,Lámpara,2,85,48
+2026-06-21,Lima,Belleza,Kit de uñas,8,75,40
+2026-03-09,Arequipa,Tecnología,Mouse inalámbrico,4,65,35
+2026-01-18,Lima,Belleza,Kit de uñas,5,75,40
+2026-01-01,Tacna,Tecnología,Mouse inalámbrico,7,65,35
+2026-04-18,Arequipa,Hogar,Organizador,7,35,18
+2026-04-07,Lima,Hogar,Organizador,7,35,18
+2026-05-03,Arequipa,Tecnología,Mouse inalámbrico,3,65,35
+2026-01-19,Tacna,Hogar,Organizador,5,35,18
+2026-03-23,Lima,Tecnología,Mouse inalámbrico,2,65,35
+2026-03-29,Arequipa,Tecnología,Mouse inalámbrico,7,65,35
+2026-01-20,Tacna,Tecnología,Teclado,6,110,70
+2026-06-07,Cusco,Belleza,Esmalte,1,18,8
+2026-06-17,Arequipa,Hogar,Organizador,7,35,18
+2026-01-14,Tacna,Tecnología,Teclado,6,110,70
+2026-02-18,Cusco,Tecnología,Teclado,5,110,70
+2026-03-14,Lima,Belleza,Kit de uñas,4,75,40
+2026-01-13,Cusco,Tecnología,Mouse inalámbrico,8,65,35
+2026-01-14,Lima,Tecnología,Teclado,1,110,70
+2026-01-23,Lima,Hogar,Organizador,8,35,18
+2026-01-25,Tacna,Tecnología,Teclado,4,110,70
+2026-06-13,Lima,Tecnología,Teclado,2,110,70
+2026-01-30,Lima,Hogar,Organizador,7,35,18
+2026-05-06,Lima,Hogar,Organizador,2,35,18
+2026-05-20,Cusco,Belleza,Kit de uñas,3,75,40
+2026-04-08,Lima,Hogar,Lámpara,3,85,48
+2026-01-12,Lima,Hogar,Organizador,8,35,18
+2026-03-09,Arequipa,Hogar,Organizador,5,35,18
+2026-01-16,Arequipa,Belleza,Esmalte,2,18,8
+2026-06-21,Lima,Tecnología,Mouse inalámbrico,7,65,35
+2026-02-28,Tacna,Belleza,Esmalte,7,18,8
+2026-04-18,Cusco,Belleza,Esmalte,4,18,8
+2026-03-18,Tacna,Hogar,Organizador,7,35,18
+2026-01-09,Arequipa,Belleza,Kit de uñas,2,75,40
+2026-02-14,Arequipa,Hogar,Organizador,4,35,18
+2026-02-02,Tacna,Tecnología,Teclado,7,110,70
+2026-06-24,Cusco,Tecnología,Mouse inalámbrico,4,65,35
+2026-02-07,Lima,Belleza,Kit de uñas,6,75,40
+2026-01-18,Tacna,Belleza,Kit de uñas,7,75,40
+2026-04-12,Lima,Belleza,Esmalte,5,18,8
+2026-04-28,Tacna,Belleza,Esmalte,7,18,8
+2026-04-17,Arequipa,Tecnología,Mouse inalámbrico,3,65,35
+2026-05-31,Tacna,Belleza,Esmalte,2,18,8
+2026-01-26,Lima,Belleza,Esmalte,6,18,8
+2026-03-09,Cusco,Hogar,Organizador,8,35,18
+2026-06-05,Cusco,Belleza,Esmalte,1,18,8
+2026-03-12,Cusco,Tecnología,Teclado,3,110,70
+2026-06-05,Cusco,Belleza,Esmalte,1,18,8
+2026-03-26,Arequipa,Hogar,Organizador,1,35,18
+2026-05-02,Lima,Belleza,Kit de uñas,6,75,40
+2026-03-28,Lima,Tecnología,Mouse inalámbrico,5,65,35
+2026-05-06,Tacna,Hogar,Lámpara,4,85,48
+2026-03-18,Cusco,Tecnología,Teclado,6,110,70
+2026-04-17,Tacna,Hogar,Lámpara,4,85,48
+2026-02-24,Cusco,Hogar,Organizador,8,35,18
+2026-04-06,Tacna,Belleza,Esmalte,3,18,8
+2026-03-21,Cusco,Tecnología,Mouse inalámbrico,3,65,35
+2026-05-26,Tacna,Belleza,Esmalte,3,18,8
+2026-02-21,Tacna,Tecnología,Teclado,4,110,70
+2026-04-27,Tacna,Tecnología,Mouse inalámbrico,6,65,35
+2026-02-20,Lima,Belleza,Kit de uñas,6,75,40
+2026-05-10,Cusco,Hogar,Organizador,2,35,18
+2026-01-08,Arequipa,Belleza,Kit de uñas,6,75,40
+2026-06-02,Cusco,Hogar,Organizador,3,35,18
+2026-05-31,Lima,Hogar,Organizador,6,35,18
+2026-03-08,Tacna,Tecnología,Teclado,5,110,70
+2026-04-09,Tacna,Tecnología,Mouse inalámbrico,3,65,35
+2026-02-24,Arequipa,Belleza,Esmalte,4,18,8
+2026-02-22,Lima,Belleza,Kit de uñas,7,75,40
+2026-01-06,Tacna,Belleza,Esmalte,8,18,8
+2026-06-15,Arequipa,Tecnología,Teclado,1,110,70
+2026-03-06,Lima,Tecnología,Teclado,5,110,70
+2026-04-07,Lima,Hogar,Organizador,8,35,18
+2026-02-25,Cusco,Hogar,Lámpara,5,85,48
+2026-05-14,Cusco,Belleza,Kit de uñas,2,75,40
+2026-05-11,Lima,Tecnología,Mouse inalámbrico,5,65,35
+2026-06-25,Tacna,Hogar,Lámpara,8,85,48
+2026-03-28,Lima,Tecnología,Mouse inalámbrico,6,65,35
+2026-03-08,Lima,Hogar,Lámpara,4,85,48
+2026-05-13,Arequipa,Tecnología,Teclado,1,110,70
+2026-04-14,Lima,Belleza,Esmalte,3,18,8
+2026-01-07,Cusco,Belleza,Kit de uñas,5,75,40
+2026-04-18,Cusco,Hogar,Lámpara,7,85,48
+2026-01-10,Arequipa,Belleza,Kit de uñas,6,75,40
+2026-02-26,Cusco,Belleza,Kit de uñas,6,75,40
+2026-03-18,Arequipa,Belleza,Esmalte,3,18,8
+2026-01-25,Cusco,Hogar,Lámpara,3,85,48
+2026-03-08,Arequipa,Belleza,Kit de uñas,6,75,40
+2026-01-23,Arequipa,Belleza,Kit de uñas,6,75,40
+2026-03-20,Cusco,Tecnología,Teclado,6,110,70
+2026-03-08,Lima,Hogar,Lámpara,8,85,48
+2026-05-01,Tacna,Tecnología,Mouse inalámbrico,2,65,35
+2026-02-19,Tacna,Hogar,Organizador,7,35,18
+2026-03-18,Cusco,Belleza,Esmalte,1,18,8
+2026-02-05,Arequipa,Tecnología,Teclado,6,110,70
+2026-05-26,Cusco,Hogar,Organizador,3,35,18
+2026-02-16,Tacna,Hogar,Lámpara,8,85,48
+2026-06-11,Arequipa,Hogar,Lámpara,6,85,48
+2026-01-15,Tacna,Belleza,Kit de uñas,8,75,40
+2026-02-23,Arequipa,Hogar,Lámpara,3,85,48
+2026-01-23,Arequipa,Hogar,Organizador,7,35,18
+2026-04-20,Cusco,Belleza,Kit de uñas,7,75,40
+2026-04-09,Tacna,Hogar,Organizador,1,35,18
+2026-02-21,Lima,Belleza,Esmalte,1,18,8
+2026-05-16,Arequipa,Hogar,Lámpara,1,85,48
+2026-01-02,Arequipa,Belleza,Kit de uñas,4,75,40
+2026-03-30,Lima,Belleza,Kit de uñas,3,75,40
+2026-04-09,Lima,Tecnología,Mouse inalámbrico,3,65,35
+2026-01-12,Lima,Tecnología,Mouse inalámbrico,5,65,35
+2026-05-14,Lima,Hogar,Organizador,7,35,18
+2026-02-04,Lima,Belleza,Kit de uñas,8,75,40
+2026-02-18,Arequipa,Hogar,Lámpara,7,85,48
+2026-02-28,Arequipa,Tecnología,Mouse inalámbrico,3,65,35
+2026-01-06,Arequipa,Tecnología,Teclado,2,110,70
+2026-06-16,Tacna,Hogar,Lámpara,7,85,48
+2026-03-07,Tacna,Belleza,Kit de uñas,1,75,40
+2026-01-28,Tacna,Belleza,Kit de uñas,1,75,40
+2026-01-30,Cusco,Belleza,Kit de uñas,8,75,40
+2026-02-01,Lima,Hogar,Organizador,8,35,18
+2026-02-09,Arequipa,Belleza,Kit de uñas,1,75,40
+2026-04-18,Tacna,Hogar,Lámpara,5,85,48
+2026-06-05,Arequipa,Belleza,Esmalte,7,18,8
+2026-05-11,Tacna,Tecnología,Mouse inalámbrico,5,65,35
+2026-01-28,Cusco,Tecnología,Mouse inalámbrico,4,65,35
+2026-02-21,Lima,Belleza,Esmalte,4,18,8
+2026-06-30,Cusco,Hogar,Lámpara,5,85,48
+2026-01-11,Cusco,Tecnología,Teclado,4,110,70
+2026-05-04,Lima,Belleza,Kit de uñas,4,75,40
+2026-01-04,Tacna,Tecnología,Mouse inalámbrico,2,65,35
+2026-06-21,Cusco,Belleza,Esmalte,3,18,8
+2026-05-11,Tacna,Tecnología,Mouse inalámbrico,2,65,35
+2026-06-14,Arequipa,Hogar,Lámpara,8,85,48
+2026-03-09,Cusco,Hogar,Lámpara,1,85,48
+2026-02-14,Tacna,Tecnología,Mouse inalámbrico,5,65,35
+2026-06-23,Lima,Hogar,Lámpara,7,85,48
+2026-01-30,Tacna,Belleza,Kit de uñas,1,75,40
+2026-02-05,Arequipa,Tecnología,Mouse inalámbrico,6,65,35
+2026-04-23,Lima,Hogar,Lámpara,2,85,48
+2026-03-29,Arequipa,Hogar,Lámpara,2,85,48
+2026-04-13,Cusco,Hogar,Organizador,5,35,18
+2026-06-26,Cusco,Hogar,Organizador,7,35,18
+2026-02-12,Tacna,Belleza,Kit de uñas,3,75,40
+2026-01-16,Arequipa,Belleza,Kit de uñas,2,75,40
+2026-06-01,Cusco,Hogar,Organizador,8,35,18
+2026-06-06,Cusco,Tecnología,Teclado,6,110,70
+2026-01-08,Arequipa,Belleza,Esmalte,8,18,8
+2026-01-29,Cusco,Hogar,Organizador,8,35,18
+2026-01-17,Lima,Tecnología,Mouse inalámbrico,6,65,35
+2026-06-30,Arequipa,Tecnología,Mouse inalámbrico,6,65,35
+2026-05-14,Tacna,Belleza,Esmalte,7,18,8
+2026-03-05,Cusco,Belleza,Kit de uñas,6,75,40
+2026-06-23,Cusco,Belleza,Kit de uñas,3,75,40
+2026-06-06,Tacna,Belleza,Esmalte,1,18,8
+2026-02-10,Cusco,Belleza,Kit de uñas,8,75,40
+2026-01-20,Cusco,Tecnología,Teclado,6,110,70
+2026-03-26,Lima,Tecnología,Teclado,1,110,70
+2026-02-27,Cusco,Belleza,Esmalte,7,18,8
+2026-01-21,Cusco,Tecnología,Teclado,8,110,70
+2026-04-25,Tacna,Belleza,Esmalte,8,18,8
+2026-03-22,Tacna,Hogar,Organizador,8,35,18
+2026-06-17,Tacna,Belleza,Kit de uñas,2,75,40
+2026-04-16,Tacna,Hogar,Organizador,1,35,18
+2026-06-04,Lima,Tecnología,Mouse inalámbrico,4,65,35
+2026-06-21,Cusco,Belleza,Kit de uñas,6,75,40
+2026-01-14,Arequipa,Hogar,Lámpara,8,85,48
+2026-05-24,Cusco,Hogar,Lámpara,6,85,48
+2026-04-26,Tacna,Belleza,Kit de uñas,2,75,40
+2026-02-26,Tacna,Belleza,Kit de uñas,6,75,40
+2026-06-12,Lima,Hogar,Lámpara,6,85,48
+2026-01-28,Tacna,Belleza,Kit de uñas,3,75,40
+2026-02-05,Cusco,Hogar,Organizador,2,35,18
+2026-06-06,Arequipa,Hogar,Lámpara,4,85,48
+2026-04-11,Arequipa,Tecnología,Mouse inalámbrico,8,65,35
+2026-03-28,Tacna,Tecnología,Teclado,7,110,70
+2026-06-12,Tacna,Tecnología,Mouse inalámbrico,8,65,35
+2026-06-18,Arequipa,Hogar,Organizador,8,35,18
+2026-05-16,Tacna,Tecnología,Mouse inalámbrico,7,65,35
+2026-05-04,Arequipa,Belleza,Esmalte,3,18,8
+2026-02-02,Tacna,Belleza,Kit de uñas,7,75,40
+2026-06-03,Lima,Belleza,Kit de uñas,7,75,40
+2026-06-05,Arequipa,Hogar,Organizador,5,35,18
+2026-03-29,Lima,Hogar,Organizador,8,35,18
+2026-02-05,Cusco,Tecnología,Teclado,5,110,70
+2026-05-21,Lima,Belleza,Kit de uñas,4,75,40
+2026-02-23,Lima,Tecnología,Teclado,6,110,70
+2026-02-03,Arequipa,Belleza,Kit de uñas,6,75,40
+2026-01-30,Lima,Belleza,Kit de uñas,8,75,40
+2026-05-27,Cusco,Belleza,Esmalte,5,18,8
+2026-01-04,Tacna,Hogar,Organizador,1,35,18
+2026-02-07,Tacna,Hogar,Organizador,1,35,18
+2026-03-10,Arequipa,Tecnología,Teclado,5,110,70
+2026-03-06,Arequipa,Belleza,Kit de uñas,1,75,40
+2026-03-17,Arequipa,Belleza,Kit de uñas,1,75,40
+2026-04-26,Tacna,Hogar,Lámpara,4,85,48
+2026-06-15,Cusco,Belleza,Kit de uñas,4,75,40
+2026-06-28,Lima,Belleza,Esmalte,1,18,8
+2026-04-10,Cusco,Hogar,Organizador,6,35,18
+2026-01-14,Tacna,Belleza,Esmalte,5,18,8
+2026-06-08,Cusco,Tecnología,Teclado,4,110,70
+2026-06-30,Lima,Belleza,Kit de uñas,4,75,40
+2026-02-19,Lima,Belleza,Kit de uñas,8,75,40
+2026-06-24,Tacna,Tecnología,Teclado,3,110,70
+2026-05-12,Tacna,Tecnología,Teclado,7,110,70
+2026-04-20,Lima,Tecnología,Mouse inalámbrico,5,65,35
+2026-02-11,Lima,Tecnología,Teclado,1,110,70
+2026-04-30,Arequipa,Hogar,Lámpara,1,85,48
+2026-03-24,Tacna,Tecnología,Teclado,5,110,70
+2026-05-27,Lima,Hogar,Organizador,2,35,18
+2026-03-23,Arequipa,Belleza,Kit de uñas,3,75,40
+2026-01-18,Arequipa,Belleza,Esmalte,7,18,8
+2026-05-18,Cusco,Belleza,Esmalte,2,18,8
+2026-02-26,Arequipa,Hogar,Lámpara,6,85,48
+2026-04-03,Lima,Hogar,Lámpara,4,85,48
+2026-05-16,Cusco,Belleza,Esmalte,1,18,8
+2026-06-21,Lima,Tecnología,Mouse inalámbrico,8,65,35
+2026-06-14,Arequipa,Tecnología,Teclado,1,110,70
+2026-03-24,Cusco,Belleza,Kit de uñas,2,75,40
+2026-03-07,Lima,Hogar,Organizador,1,35,18
+2026-04-06,Cusco,Belleza,Esmalte,8,18,8
+2026-03-17,Arequipa,Tecnología,Mouse inalámbrico,6,65,35
+2026-01-22,Tacna,Belleza,Esmalte,3,18,8
+2026-05-17,Tacna,Belleza,Esmalte,2,18,8
+2026-06-21,Arequipa,Tecnología,Teclado,7,110,70
+2026-02-22,Cusco,Tecnología,Mouse inalámbrico,2,65,35
+2026-06-25,Arequipa,Belleza,Kit de uñas,1,75,40
+2026-03-26,Tacna,Hogar,Organizador,2,35,18
+2026-01-14,Arequipa,Tecnología,Mouse inalámbrico,5,65,35
+2026-01-19,Arequipa,Belleza,Esmalte,5,18,8
+2026-04-10,Cusco,Hogar,Organizador,7,35,18
+2026-03-22,Tacna,Hogar,Organizador,7,35,18
+2026-01-31,Tacna,Belleza,Kit de uñas,2,75,40
+2026-05-30,Tacna,Belleza,Kit de uñas,2,75,40
+2026-05-09,Tacna,Hogar,Lámpara,5,85,48
+2026-03-19,Tacna,Belleza,Kit de uñas,5,75,40
+2026-04-08,Cusco,Hogar,Organizador,1,35,18
+2026-02-10,Arequipa,Hogar,Organizador,3,35,18
+2026-04-11,Lima,Belleza,Kit de uñas,3,75,40
+2026-06-23,Lima,Hogar,Lámpara,1,85,48
+2026-05-23,Arequipa,Belleza,Esmalte,2,18,8
+2026-01-02,Cusco,Tecnología,Mouse inalámbrico,2,65,35
+2026-02-23,Lima,Hogar,Lámpara,4,85,48
+2026-06-15,Arequipa,Hogar,Organizador,3,35,18
+2026-02-26,Lima,Tecnología,Teclado,4,110,70
+2026-02-16,Tacna,Tecnología,Mouse inalámbrico,8,65,35
+2026-05-21,Tacna,Belleza,Kit de uñas,5,75,40
+2026-01-18,Lima,Belleza,Kit de uñas,2,75,40
+2026-05-29,Cusco,Tecnología,Teclado,6,110,70
+2026-02-02,Arequipa,Hogar,Lámpara,2,85,48
+2026-06-08,Tacna,Hogar,Lámpara,4,85,48
+2026-05-05,Cusco,Hogar,Lámpara,6,85,48
+2026-06-18,Lima,Belleza,Esmalte,3,18,8
+2026-05-26,Lima,Belleza,Esmalte,6,18,8
+2026-02-13,Tacna,Hogar,Organizador,6,35,18
+2026-02-26,Cusco,Tecnología,Teclado,5,110,70
+2026-02-04,Lima,Hogar,Lámpara,8,85,48
+2026-04-25,Lima,Hogar,Organizador,5,35,18
+2026-05-22,Tacna,Hogar,Organizador,3,35,18
+2026-06-05,Tacna,Belleza,Kit de uñas,5,75,40
+2026-05-18,Arequipa,Tecnología,Teclado,5,110,70
+2026-06-10,Tacna,Belleza,Kit de uñas,2,75,40
+2026-05-10,Tacna,Tecnología,Mouse inalámbrico,7,65,35
+2026-02-24,Tacna,Belleza,Esmalte,5,18,8
+2026-05-19,Cusco,Belleza,Esmalte,3,18,8
+2026-04-11,Arequipa,Hogar,Lámpara,5,85,48
+2026-04-29,Tacna,Tecnología,Teclado,7,110,70
+2026-05-09,Tacna,Hogar,Lámpara,4,85,48
+2026-06-25,Arequipa,Belleza,Esmalte,3,18,8
+2026-02-10,Arequipa,Hogar,Organizador,3,35,18
+2026-05-04,Lima,Belleza,Kit de uñas,1,75,40
+2026-05-05,Arequipa,Tecnología,Teclado,2,110,70
+2026-04-05,Arequipa,Hogar,Lámpara,1,85,48
+2026-02-22,Lima,Belleza,Kit de uñas,7,75,40
+2026-04-27,Tacna,Hogar,Organizador,1,35,18
+2026-03-24,Tacna,Belleza,Kit de uñas,5,75,40
+2026-03-09,Arequipa,Belleza,Kit de uñas,7,75,40
+2026-04-07,Lima,Belleza,Kit de uñas,2,75,40
+2026-03-06,Cusco,Belleza,Esmalte,4,18,8
+2026-04-14,Lima,Belleza,Esmalte,6,18,8
+2026-05-04,Tacna,Hogar,Organizador,3,35,18
+2026-02-12,Arequipa,Hogar,Organizador,2,35,18
+2026-06-14,Lima,Belleza,Esmalte,4,18,8
+2026-02-17,Arequipa,Tecnología,Teclado,6,110,70
+2026-01-31,Arequipa,Belleza,Esmalte,7,18,8
+2026-01-30,Cusco,Hogar,Lámpara,8,85,48
+2026-02-23,Arequipa,Hogar,Organizador,7,35,18
+2026-03-04,Tacna,Tecnología,Mouse inalámbrico,3,65,35
+2026-06-01,Arequipa,Belleza,Esmalte,3,18,8
+2026-05-12,Tacna,Belleza,Kit de uñas,3,75,40
+2026-02-12,Lima,Tecnología,Mouse inalámbrico,3,65,35
+2026-04-14,Tacna,Belleza,Esmalte,5,18,8
+2026-02-25,Cusco,Tecnología,Mouse inalámbrico,8,65,35
+2026-02-13,Arequipa,Hogar,Organizador,7,35,18
+2026-02-06,Arequipa,Belleza,Esmalte,5,18,8
+2026-06-25,Lima,Tecnología,Teclado,8,110,70
+2026-06-01,Tacna,Belleza,Esmalte,4,18,8
+2026-04-09,Arequipa,Hogar,Organizador,2,35,18
+2026-02-21,Cusco,Tecnología,Mouse inalámbrico,3,65,35
+2026-01-25,Arequipa,Belleza,Esmalte,8,18,8
+2026-06-03,Tacna,Belleza,Esmalte,2,18,8
+2026-05-04,Arequipa,Tecnología,Mouse inalámbrico,1,65,35
+2026-06-16,Cusco,Belleza,Kit de uñas,7,75,40
+2026-01-12,Cusco,Hogar,Lámpara,4,85,48
+2026-04-08,Lima,Hogar,Organizador,2,35,18
+2026-02-04,Lima,Hogar,Organizador,8,35,18
+2026-01-22,Lima,Tecnología,Teclado,7,110,70
+2026-02-18,Tacna,Hogar,Lámpara,1,85,48
+2026-05-14,Tacna,Belleza,Esmalte,1,18,8
+2026-06-17,Arequipa,Hogar,Organizador,6,35,18
+2026-04-03,Tacna,Hogar,Organizador,3,35,18
+2026-06-16,Lima,Hogar,Organizador,5,35,18
+2026-04-19,Lima,Belleza,Esmalte,5,18,8
+2026-04-12,Arequipa,Belleza,Kit de uñas,7,75,40
+2026-05-23,Cusco,Belleza,Esmalte,3,18,8
+2026-05-24,Cusco,Hogar,Lámpara,5,85,48
+2026-05-28,Lima,Hogar,Lámpara,7,85,48
+2026-02-05,Tacna,Belleza,Kit de uñas,4,75,40
+2026-06-29,Arequipa,Hogar,Organizador,2,35,18
+2026-05-11,Cusco,Tecnología,Teclado,6,110,70
+2026-06-07,Tacna,Belleza,Esmalte,3,18,8
+2026-06-12,Tacna,Hogar,Organizador,2,35,18
+2026-05-01,Cusco,Tecnología,Teclado,2,110,70
+2026-03-09,Arequipa,Tecnología,Mouse inalámbrico,6,65,35
+2026-06-05,Tacna,Tecnología,Mouse inalámbrico,7,65,35
