@@ -5,7 +5,7 @@ Graba la pantalla con tu voz. Prepara las pestañas del editor, GitHub Actions y
 ## 0:00–0:25 | Presentación
 Pantalla: dashboard completo.
 
-«Hola, soy Eduardo Gino Flores Navarro. En este video presentaré la construcción de Ventas Perú, un dashboard con Python y Streamlit. Permite explorar ventas por ciudad, categoría y fechas. Los datos de esta demostración son sintéticos y no corresponden a ventas reales.»
+«Hola, soy Eduardo Gino Flores Navarro. En este video presentaré la construcción de Ventas360 Perú, un dashboard con Python y Streamlit. Permite explorar ventas por ciudad, categoría y fechas. Los datos de esta demostración son sintéticos y no corresponden a ventas reales.»
 
 ## 0:25–1:00 | Estructura y datos
 Pantalla: editor, estructura del proyecto y CSV.

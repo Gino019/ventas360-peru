@@ -6,7 +6,7 @@ Autor: Eduardo Gino Flores Navarro
 
 ## El objetivo: entender las ventas de forma visual
 
-Una tabla permite almacenar información, pero puede ser difícil reconocer rápidamente qué ciudad genera más ventas o qué productos aportan mayor utilidad. Este proyecto transforma un archivo CSV en un dashboard interactivo: Ventas Perú.
+Una tabla permite almacenar información, pero puede ser difícil reconocer rápidamente qué ciudad genera más ventas o qué productos aportan mayor utilidad. Este proyecto transforma un archivo CSV en un dashboard interactivo: Ventas360 Perú.
 
 La aplicación permite explorar ventas por ciudad, categoría y periodo. Presenta indicadores y gráficos que se actualizan con los filtros, y permite descargar el conjunto seleccionado para continuar el análisis.
 
@@ -98,7 +98,7 @@ Una ampliación posible sería incorporar una fuente de datos autorizada, regist
 
 ## Código, aplicación y video
 
-- Repositorio público: [PEGAR URL REAL DE GITHUB]
+- Repositorio público: https://github.com/Gino019/ventas360-peru
 - Dashboard publicado: [PEGAR URL REAL DE STREAMLIT]
 - Video de construcción y demostración, máximo cinco minutos: [PEGAR URL REAL DEL VIDEO]
 

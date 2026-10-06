@@ -4,8 +4,8 @@ import plotly.express as px
 import streamlit as st
 from analytics import validate_data, summarize, safe_csv
 
-st.set_page_config(page_title='Ventas Perú | Dashboard', page_icon='📊', layout='wide')
-st.title('Ventas Perú')
+st.set_page_config(page_title='Ventas360 Perú | Dashboard', page_icon='📊', layout='wide')
+st.title('Ventas360 Perú')
 st.caption('Explora ventas, productos y ciudades · Streamlit + Pandas + Plotly')
 with st.sidebar:
     st.header('Panel de control')
